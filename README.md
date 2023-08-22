@@ -1,2 +1,2 @@
 # API-fox
-API sobre fotos de raposas
+API para ver fotos de raposas
